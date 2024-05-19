@@ -1,5 +1,6 @@
-# animacao-hover-css
+# animacao Hover Css
 Este é um projeto sobre animações em css, com o intuito de praticarmos o que apreendemos na aula de desenvolvimento web 1.
+Seguindo isto dediquei este projeto sobre uma pagina de saiba mais, sendo assim criei um hover com uma animação para subir um texto explicando sobre o assunto.
 #Html:
 # Meu Projeto
 
