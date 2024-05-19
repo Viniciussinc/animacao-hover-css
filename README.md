@@ -4,6 +4,8 @@ Seguindo isto dediquei este projeto sobre uma pagina de saiba mais, sendo assim 
 ### Veja como ficou:
 ![Funcionamento do Projeto](https://github.com/Viniciussinc/animacao-hover-css/blob/main/sukuna.gif)
 <br>
+### Codepen: https://codepen.io/Vinicius-Araujo-the-vuer/pen/yLWepXz?editors=1000
+
 # Meu Projeto
 
 Aqui está na integra o código HTML:
