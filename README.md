@@ -25,7 +25,7 @@ Este é um projeto sobre animações em css, com o intuito de praticarmos o que 
         </div>
     </div>
 </body>
-</html>'''
+</html> '''
 
 
 ![Funcionamento do Projeto](https://github.com/Viniciussinc/animacao-hover-css/blob/main/sukuna.gif)
