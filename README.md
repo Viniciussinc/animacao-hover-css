@@ -33,6 +33,9 @@ Aqui está na integra o código HTML:
     </div>
 </body>
 </html>
-
-
+'''
+###
 ![Funcionamento do Projeto](https://github.com/Viniciussinc/animacao-hover-css/blob/main/sukuna.gif)
+
+
+
