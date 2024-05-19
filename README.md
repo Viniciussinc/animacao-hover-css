@@ -1,9 +1,9 @@
 # Animação Hover Css
 Este é um projeto sobre animações em css, com o intuito de praticarmos o que apreendemos na aula de desenvolvimento web 1.
 Seguindo isto dediquei este projeto sobre uma pagina de saiba mais, sendo assim criei um hover com uma animação para subir um texto explicando sobre o assunto.
-#Veja como ficou:
+### Veja como ficou:
 ![Funcionamento do Projeto](https://github.com/Viniciussinc/animacao-hover-css/blob/main/sukuna.gif)
-#Html:
+### Html:
 # Meu Projeto
 
 Aqui está na integra o código HTML:
